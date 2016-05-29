@@ -1,6 +1,3 @@
-quote
-=====
+One day I was tired of sending boring e-mails over and over. Since I always liked the idea of the `fortune` program and the message-of-the-day (MOTD) service found on UNIX-like systems, I decided to write a very simple script for printing such a message in the signature of my e-mails. I believe that such messages can have good influence to people: Sometimes they are entertaining and can make you laugh, whilst other times they are educational and you can learn a lot from them. This is how I ended up with the quote program. And here's a Figure of quote in action:
 
-Print a random quote from an input file.
-
-Project description: http://faif.objectis.net/quote
+![example](http://i63.tinypic.com/29qh4qw.png)
